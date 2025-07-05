@@ -32,38 +32,9 @@ Edit
 - Python 3.x  
 - Tkinter (comes pre-installed with standard Python)
 
-If Tkinter is not installed (rare), you can install it with:
-
-bash
-pip install tk
-🚀 How to Run the Game
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Shlok-Solanki/CodSoft.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd CodSoft
-Run the Python script:
-
-bash
-Copy
-Edit
-python game.py
-The Rock-Paper-Scissors game window will launch. Select your choice and play against the computer!
-
 🖼️ Screenshots
-You can add screenshots of the GUI here by uploading them and linking like this:
+You can add screenshots of the GUI here by uploading them.
 
-markdown
-Copy
-Edit
-![Game Screenshot](images/screenshot.png)
 📜 License
 Feel free to use, modify, and share for learning or personal projects.
 
