@@ -32,12 +32,12 @@ Edit
 - Python 3.x  
 - Tkinter (comes pre-installed with standard Python)
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 You can add screenshots of the GUI here by uploading them.
 
-📜 License
+## 📜 License
 Feel free to use, modify, and share for learning or personal projects.
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Made with ❤️ by Shlok Solanki
 If you like this project, ⭐ the repo and share it with friends!
