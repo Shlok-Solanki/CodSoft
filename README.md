@@ -34,7 +34,7 @@ Edit
 
 If Tkinter is not installed (rare), you can install it with:
 
-```bash
+bash
 pip install tk
 🚀 How to Run the Game
 Clone the repository:
