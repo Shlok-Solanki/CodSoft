@@ -33,7 +33,7 @@ A secure, customizable password generator built using **Python** and **Tkinter**
   - `pyperclip` *(for clipboard support)*
 
 Install `pyperclip` if you don't have it:
-```bash
+bash
 pip install pyperclip
 🧠 How It Works
 Choose your desired password length.
@@ -46,20 +46,20 @@ View the password in the entry field.
 
 Click "Copy to Clipboard" to use it anywhere securely.
 
-🛡️ Security Note
+## 🛡️ Security Note
 Although this tool generates strong passwords using Python’s random and includes various character sets, it is intended for general use. For mission-critical or enterprise-level security, consider using cryptographically secure libraries like secrets.
 
-📁 Project Structure
+## 📁 Project Structure
 pgsql
 Copy
 Edit
 password-generator/
 ├── password_generator.py
 └── README.md
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Built as part of the CodSoft Internship Program
 
 Inspired by the need for strong password habits
 
-📬 Contact
+## 📬 Contact
 Shlok Solanki
