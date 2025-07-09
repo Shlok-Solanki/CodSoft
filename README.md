@@ -26,6 +26,17 @@ A secure and customizable password generator that allows users to create strong 
 - 📋 One-click copy to clipboard
 - 🔁 Instant regeneration of new passwords
 
+### 3. 🧮 Calculator (Tkinter GUI)
+A user-friendly desktop calculator application built using Python’s Tkinter library. It supports both basic arithmetic and scientific operations like square root and power functions.
+
+### 🔧 Features:
+
+- 🖱️ Intuitive GUI interface using Tkinter
+- ➕ Performs basic arithmetic operations: Add, Subtract, Multiply, Divide
+- 🧠 Includes scientific functions like √ (square root) and ^ (power)
+- ⚠️ Input validation with error handling
+- 🪟 Clean layout and responsive design
+
 ---
 
 ## 🗂️ Project Structure
