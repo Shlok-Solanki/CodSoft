@@ -1,25 +1,43 @@
-# 🪨 Rock-Paper-Scissors Game (Tkinter GUI)
+# 🎯 CodSoft Python Projects (Internship)
 
-Welcome to the **Rock-Paper-Scissors** game built using **Python** and **Tkinter**!  
-This project is a simple desktop application where you can play the classic game of Rock-Paper-Scissors against the computer using a graphical user interface.
+This repository contains Python-based desktop applications developed as part of my internship at **CodSoft**. These mini-projects showcase hands-on learning and implementation of GUI development using **Tkinter**, as well as fundamental programming concepts such as conditionals, randomization, and event handling.
+
+## 📌 Projects Included
+
+### 1. 🕹️ Rock-Paper-Scissors Game (Tkinter GUI)
+
+A classic Rock-Paper-Scissors game where the user can play against the computer in an interactive desktop GUI.
+
+#### 🔧 Features:
+- 🖱️ User-friendly GUI built with Tkinter
+- 🤖 Randomized computer moves
+- 🧮 Score tracking (User vs Computer)
+- 📢 Instant result display after every round
+- 🔄 Replay functionality with a single click
+
+### 2. 🔐 Password Generator (Tkinter GUI)
+
+A secure and customizable password generator that allows users to create strong passwords with a single click.
+
+#### 🔧 Features:
+- 🖼️ Interactive GUI built with Tkinter
+- 🎛️ Adjustable password length
+- 🧩 Option to include uppercase, lowercase, digits, and special characters
+- 📋 One-click copy to clipboard
+- 🔁 Instant regeneration of new passwords
 
 ---
 
-## 📌 Features
-
-- ✅ Interactive GUI using Tkinter  
-- 🤖 Randomized computer moves  
-- 📊 Score tracking for user and computer  
-- 🏆 Display of match result after every round  
-- 🔁 Replay anytime with a click
-
----
-
-## 📂 Project Structure
+## 🗂️ Project Structure
 
 CodSoft/
-├── game.py # Main Python script for the game
-└── README.md # Project documentation
+├── game/
+│ ├── game.py # Rock-Paper-Scissors Game Script
+│ └── README.md # Game Project Documentation
+├── password-generator/
+│ ├── password_generator.py # Password Generator Script
+│ └── README.md # Password Generator Documentation
+└── README.md # Main Repository Documentation (This File)
 
 yaml
 Copy
@@ -27,17 +45,29 @@ Edit
 
 ---
 
-## 💻 Requirements
+## 🚀 Getting Started
 
-- Python 3.x  
-- Tkinter (comes pre-installed with standard Python)
+Make sure you have Python installed on your system.
 
-## 🖼️ Screenshots
-You can add screenshots of the GUI here by uploading them.
+To run the scripts:
+python game/game.py
+bash
+Copy
+Edit
+python password-generator/password_generator.py
+These are standalone desktop applications and do not require any external libraries apart from tkinter and random.
 
-## 📜 License
-Feel free to use, modify, and share for learning or personal projects.
+## 🧠 What I Learned
+During this internship, I:
 
-## 🙌 Acknowledgments
-Made with ❤️ by Shlok Solanki
-If you like this project, ⭐ the repo and share it with friends!
+Gained practical experience building GUI apps using Tkinter
+
+Understood the importance of clean and modular code
+
+Strengthened logic building and control flow handling in Python
+
+Developed confidence in converting basic concepts into interactive applications
+
+## 👨‍💻 Author
+Shlok Solanki
+Python Development Intern @ CodSoft
